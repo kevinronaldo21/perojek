@@ -1,0 +1,11 @@
+
+USE CASE INVENTARIS BARANG
+
+Admin:
+- Login
+- Kelola Barang
+- Kelola Supplier
+- Input Barang Masuk
+- Input Barang Keluar
+- Lihat Dashboard
+- Logout
